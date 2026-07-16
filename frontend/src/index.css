@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+body {
+  background-color: #DAE2B6;
+  color: #021526;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(110, 172, 218, 0.25);
+  box-shadow: 0 4px 24px rgba(2, 21, 38, 0.06);
+}
+
+.glass-sidebar {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-right: 1px solid rgba(110, 172, 218, 0.2);
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(110, 172, 218, 0.2);
+  box-shadow: 0 2px 16px rgba(2, 21, 38, 0.04);
+}
