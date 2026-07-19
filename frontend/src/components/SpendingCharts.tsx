@@ -71,7 +71,7 @@ export default function SpendingCharts({ expenses }: Props) {
               ))}
             </Pie>
             <Tooltip
-              formatter={(value: number) => [`₹${value.toLocaleString()}`, 'Amount']}
+              formatter={(value: unknown) => [`₹${Number(value).toLocaleString()}`, 'Amount']}
               contentStyle={{
                 background: 'rgba(255,255,255,0.9)',
                 border: '1px solid #6EACDA40',
