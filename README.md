@@ -4,6 +4,8 @@
 
 ![Finnook Dashboard](https://via.placeholder.com/1200x600/DAE2B6/021526?text=Finnook+Dashboard)
 
+Live Demo ! - https://finnook.vercel.app/login
+
 ## ✨ Features
 
 - **AI Auto-Categorization** — Type "Paid 550 to Swiggy" and AI fills the form automatically
