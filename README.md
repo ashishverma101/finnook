@@ -4,7 +4,7 @@
 
 ![Finnook Dashboard](https://via.placeholder.com/1200x600/DAE2B6/021526?text=Finnook+Dashboard)
 
-Live Demo ! - https://finnook.vercel.app/login
+Live Demo ! - [https://finnook.vercel.app/login](https://finnook-x26i.vercel.app/dashboard)
 
 ## ✨ Features
 
